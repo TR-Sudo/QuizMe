@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013961080746",
+    "project_id": "csci4100-finalproject-quizme",
+    "storage_bucket": "csci4100-finalproject-quizme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013961080746:android:e8a911d1f8cccabe17f5d3",
+        "android_client_info": {
+          "package_name": "com.example.quizme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013961080746-3a4fb79q9uiq13fqtdcc3i1gtfd4b5o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZrl_LWFy8q0G3cy7_EQI2HdlsFDa52r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013961080746-3a4fb79q9uiq13fqtdcc3i1gtfd4b5o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
