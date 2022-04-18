@@ -18,9 +18,10 @@ FACT_KEY="KEY_HERE"
 Screenshots have been provided in the '/Screenshots' folder that demonstrate the use cases for each QuizMe screen.
 ![Webp net-gifmaker (2)](https://user-images.githubusercontent.com/78048789/163850186-6cf932dc-21ad-4688-a044-0399cfd83196.gif)
 
-
-# Group Partners
+# Contributers
+```
 - Ariel Bobadilla
 - Tyler Broda
 - Paras Chandhok
 - Shawn Yama
+```
